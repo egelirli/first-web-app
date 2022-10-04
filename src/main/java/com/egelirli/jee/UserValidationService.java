@@ -1,4 +1,4 @@
-package webapp;
+package com.egelirli.jee;
 
 public class UserValidationService {
      

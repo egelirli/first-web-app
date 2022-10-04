@@ -1,4 +1,4 @@
-package webapp;
+package com.egelirli.jee;
 
 import java.io.IOException;
 import java.io.PrintWriter;
